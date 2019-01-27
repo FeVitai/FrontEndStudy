@@ -1,0 +1,20 @@
+E
+v e v -> v
+v e f -> f
+f e ? -> f
+
+op1 e op2 e op3 e op4 -> v | Só vai ser verdadeiro se TODOS forem, se um for falso, vai ser falso!
+
+OU
+v ou ? -> v
+f ou v -> v
+f ou f -> f
+
+OU EXCLUSIVO
+v ou v -> f
+v ou f -> v
+f ou v -> v
+f ou f -> f
+
+!v -> f              //! - negação
+!f -> v
