@@ -5,13 +5,11 @@ As informações aqui contidas são resultados de estudos de HTML, CSS e JS.
 
 
 A pasta **Omnifood** contém um projeto do Udemy, onde foi possível aplicar os estudos com base nas seguintes tecnologias: 
-- HTML
-- CSS
-- Javascript
+✅ HTML
+✅ CSS
+✅ Javascript
   
-
-
-To Dos:
+# To Do's
 Continuar a trilha de estudos com base em alguns itens:
 
 **Javascript**
